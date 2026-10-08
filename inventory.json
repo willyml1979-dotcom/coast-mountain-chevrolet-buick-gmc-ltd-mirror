@@ -1,6 +1,6 @@
 {
   "dealership": "Coast Mountain Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-10-04T18:45:52",
+  "generated_at": "2026-10-08T14:34:42",
   "vehicle_count": 120,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -9,6 +9,7 @@
       "name": "1972 GMC Sierra K2500in Smithers",
       "stock": "NUMBER",
       "color": "Copper",
+      "trim": "K2500in Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/c6a296b2d39d.html",
       "source_url": "https://www.coastmountaingm.com/used/1972-GMC-Sierra-id14059219.html",
       "dealer_url": "https://www.coastmountaingm.com/used/1972-GMC-Sierra-id14059219.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -17,8 +18,10 @@
       "price_currency": "CAD",
       "year": 1972,
       "make": "GMC",
-      "model": "Sierra K2500in Smithers",
-      "condition": "used"
+      "model": "Sierra",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "1972 GMC Sierra ",
@@ -33,7 +36,9 @@
       "year": 1972,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2006 Chevrolet SSR LSin Smithers",
@@ -49,7 +54,9 @@
       "year": 2006,
       "make": "Chevrolet",
       "model": "SSR LSin Smithers",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2006 Chevrolet SSR ",
@@ -64,12 +71,15 @@
       "year": 2006,
       "make": "Chevrolet",
       "model": "SSR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2009 Chevrolet Silverado K1500in Smithers",
       "vin": "1GCEK19079Z158806",
       "stock": "NUMBER",
+      "trim": "K1500in Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/5ef409c56710.html",
       "source_url": "https://www.coastmountaingm.com/used/2009-Chevrolet-Silverado-id14426834.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2009-Chevrolet-Silverado-id14426834.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -79,8 +89,10 @@
       "odometer_km": 290646,
       "year": 2009,
       "make": "Chevrolet",
-      "model": "Silverado K1500in Smithers",
-      "condition": "used"
+      "model": "Silverado",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2009 Chevrolet Silverado ",
@@ -95,12 +107,15 @@
       "year": 2009,
       "make": "Chevrolet",
       "model": "Silverado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2016 Chevrolet Trax LTin Smithers",
       "vin": "3GNCJPSB1GL116104",
       "stock": "NUMBER",
+      "trim": "LTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/87ec18e6e369.html",
       "source_url": "https://www.coastmountaingm.com/used/2016-Chevrolet-Trax-id14392316.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2016-Chevrolet-Trax-id14392316.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -110,8 +125,10 @@
       "odometer_km": 163874,
       "year": 2016,
       "make": "Chevrolet",
-      "model": "Trax LTin Smithers",
-      "condition": "used"
+      "model": "Trax",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2016 Chevrolet Trax ",
@@ -126,12 +143,15 @@
       "year": 2016,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2016 GMC Yukon Denaliin Smithers",
       "vin": "1GKS2CKJ8GR450578",
       "stock": "NUMBER",
+      "trim": "Denaliin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/0b0864ccaf56.html",
       "source_url": "https://www.coastmountaingm.com/used/2016-GMC-Yukon-id14311034.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2016-GMC-Yukon-id14311034.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -141,8 +161,10 @@
       "odometer_km": 135000,
       "year": 2016,
       "make": "GMC",
-      "model": "Yukon Denaliin Smithers",
-      "condition": "used"
+      "model": "Yukon",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2016 GMC Yukon ",
@@ -157,12 +179,15 @@
       "year": 2016,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Terrain Denaliin Smithers",
       "vin": "3GKALXEX1JL375964",
       "stock": "NUMBER",
+      "trim": "Denaliin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/befade2b0460.html",
       "source_url": "https://www.coastmountaingm.com/used/2018-GMC-Terrain-id14426833.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2018-GMC-Terrain-id14426833.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,8 +197,10 @@
       "odometer_km": 87342,
       "year": 2018,
       "make": "GMC",
-      "model": "Terrain Denaliin Smithers",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Terrain ",
@@ -188,12 +215,15 @@
       "year": 2018,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Explorer XLTin Smithers",
       "vin": "1FM5K8DH0KCA54502",
       "stock": "NUMBER",
+      "trim": "XLTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/91872fef284d.html",
       "source_url": "https://www.coastmountaingm.com/used/2019-Ford-Explorer-id14115932.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2019-Ford-Explorer-id14115932.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -203,8 +233,10 @@
       "odometer_km": 163452,
       "year": 2019,
       "make": "Ford",
-      "model": "Explorer XLTin Smithers",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Explorer ",
@@ -219,12 +251,15 @@
       "year": 2019,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Blazer True Northin Smithers",
       "vin": "3GNKBJRS7LS729338",
       "stock": "NUMBER",
+      "trim": "True Northin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/0b2b25a788cd.html",
       "source_url": "https://www.coastmountaingm.com/used/2020-Chevrolet-Blazer-id14404665.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2020-Chevrolet-Blazer-id14404665.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -234,8 +269,10 @@
       "odometer_km": 133960,
       "year": 2020,
       "make": "Chevrolet",
-      "model": "Blazer True Northin Smithers",
-      "condition": "used"
+      "model": "Blazer",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Blazer ",
@@ -250,12 +287,15 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Silverado 1500 High Countryin Smithers",
       "vin": "1GCUYHEL8LZ210521",
       "stock": "NUMBER",
+      "trim": "High Countryin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/5795573afc22.html",
       "source_url": "https://www.coastmountaingm.com/used/2020-Chevrolet-Silverado_1500-id14327750.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2020-Chevrolet-Silverado_1500-id14327750.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -265,8 +305,10 @@
       "odometer_km": 157965,
       "year": 2020,
       "make": "Chevrolet",
-      "model": "Silverado 1500 High Countryin Smithers",
-      "condition": "used"
+      "model": "Silverado 1500",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Silverado 1500 ",
@@ -281,12 +323,15 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Sierra Slt 3500 Crew Cabin Smithers",
       "vin": "1GT49SEY6MF153230",
       "stock": "NUMBER",
+      "trim": "Slt 3500 Crew Cabin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/71aae95cfe14.html",
       "source_url": "https://www.coastmountaingm.com/used/2021-GMC-Sierra-id14304808.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2021-GMC-Sierra-id14304808.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -296,8 +341,10 @@
       "odometer_km": 260002,
       "year": 2021,
       "make": "GMC",
-      "model": "Sierra Slt 3500 Crew Cabin Smithers",
-      "condition": "used"
+      "model": "Sierra",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Sierra ",
@@ -312,12 +359,15 @@
       "year": 2021,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 1500 PROin Smithers",
       "vin": "3GTPUAEK4NG660578",
       "stock": "NUMBER",
+      "trim": "PROin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/482c5f4cc011.html",
       "source_url": "https://www.coastmountaingm.com/used/2022-GMC-Sierra_1500-id14092011.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2022-GMC-Sierra_1500-id14092011.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -327,13 +377,16 @@
       "odometer_km": 53060,
       "year": 2022,
       "make": "GMC",
-      "model": "Sierra 1500 PROin Smithers",
-      "condition": "used"
+      "model": "Sierra 1500",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 1500 At4xin Smithers",
       "vin": "3GTUUFEL9NG659533",
       "stock": "NUMBER",
+      "trim": "At4xin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/62e3e85f338f.html",
       "source_url": "https://www.coastmountaingm.com/used/2022-GMC-Sierra_1500-id14327751.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2022-GMC-Sierra_1500-id14327751.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -343,8 +396,10 @@
       "odometer_km": 60853,
       "year": 2022,
       "make": "GMC",
-      "model": "Sierra 1500 At4xin Smithers",
-      "condition": "used"
+      "model": "Sierra 1500",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 1500 ",
@@ -359,12 +414,15 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Terrain SLEin Smithers",
       "vin": "3GKALTEVXNL196092",
       "stock": "NUMBER",
+      "trim": "SLEin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/9219e8b106e3.html",
       "source_url": "https://www.coastmountaingm.com/used/2022-GMC-Terrain-id14248226.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2022-GMC-Terrain-id14248226.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -374,8 +432,10 @@
       "odometer_km": 86922,
       "year": 2022,
       "make": "GMC",
-      "model": "Terrain SLEin Smithers",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Terrain ",
@@ -390,7 +450,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 Bobcat E-42in Smithers",
@@ -404,7 +466,9 @@
       "year": 2023,
       "make": "Bobcat",
       "model": "E-42in Smithers",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 Bobcat E-42 ",
@@ -418,13 +482,16 @@
       "year": 2023,
       "make": "Bobcat",
       "model": "E-42",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Sierra 1500 SLEin Smithers",
       "vin": "1GTUUBE83PZ116542",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "SLEin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/d697c79bd43b.html",
       "source_url": "https://www.coastmountaingm.com/used/2023-GMC-Sierra_1500-id14438515.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2023-GMC-Sierra_1500-id14438515.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -434,8 +501,10 @@
       "odometer_km": 105282,
       "year": 2023,
       "make": "GMC",
-      "model": "Sierra 1500 SLEin Smithers",
-      "condition": "used"
+      "model": "Sierra 1500",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Sierra 1500 ",
@@ -451,11 +520,14 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Sierra 3500 AT4in Smithers",
       "stock": "NUMBER",
+      "trim": "AT4in Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/3c25d25525ed.html",
       "source_url": "https://www.coastmountaingm.com/used/2023-GMC-Sierra_3500-id14267031.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2023-GMC-Sierra_3500-id14267031.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -465,8 +537,10 @@
       "odometer_km": 71209,
       "year": 2023,
       "make": "GMC",
-      "model": "Sierra 3500 AT4in Smithers",
-      "condition": "used"
+      "model": "Sierra 3500",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Sierra 3500 ",
@@ -481,12 +555,15 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Yukon XL SLEin Smithers",
       "vin": "1GKS2FKD8PR364926",
       "stock": "NUMBER",
+      "trim": "SLEin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/d2360d6e5952.html",
       "source_url": "https://www.coastmountaingm.com/used/2023-GMC-Yukon_XL-id14281703.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2023-GMC-Yukon_XL-id14281703.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -496,8 +573,10 @@
       "odometer_km": 195417,
       "year": 2023,
       "make": "GMC",
-      "model": "Yukon XL SLEin Smithers",
-      "condition": "used"
+      "model": "Yukon XL",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Yukon XL ",
@@ -512,12 +591,15 @@
       "year": 2023,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 High Countryin Smithers",
       "vin": "1GCUDJEL7RZ150288",
       "stock": "NUMBER",
+      "trim": "High Countryin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/3ac5d3013738.html",
       "source_url": "https://www.coastmountaingm.com/used/2024-Chevrolet-Silverado_1500-id14346264.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2024-Chevrolet-Silverado_1500-id14346264.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -527,8 +609,10 @@
       "odometer_km": 43367,
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Silverado 1500 High Countryin Smithers",
-      "condition": "used"
+      "model": "Silverado 1500",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 ",
@@ -543,7 +627,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge RAM 3500 Basein Smithers",
@@ -559,7 +645,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "RAM 3500 Basein Smithers",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge RAM 3500 ",
@@ -574,12 +662,15 @@
       "year": 2024,
       "make": "Dodge",
       "model": "RAM 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Sierra 1500 Denaliin Smithers",
       "vin": "3GTUUGE86RG391662",
       "stock": "NUMBER",
+      "trim": "Denaliin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/37a10d20fb15.html",
       "source_url": "https://www.coastmountaingm.com/used/2024-GMC-Sierra_1500-id13817546.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2024-GMC-Sierra_1500-id13817546.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -589,8 +680,10 @@
       "odometer_km": 32941,
       "year": 2024,
       "make": "GMC",
-      "model": "Sierra 1500 Denaliin Smithers",
-      "condition": "used"
+      "model": "Sierra 1500",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Sierra 1500 ",
@@ -605,13 +698,16 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Terrain SLEin Smithers",
       "vin": "3GKALTEG8RL181369",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SLEin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/5f403358970c.html",
       "source_url": "https://www.coastmountaingm.com/used/2024-GMC-Terrain-id14426832.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2024-GMC-Terrain-id14426832.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -621,8 +717,10 @@
       "odometer_km": 124662,
       "year": 2024,
       "make": "GMC",
-      "model": "Terrain SLEin Smithers",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Terrain ",
@@ -638,12 +736,15 @@
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Yukon XL SLTin Smithers",
       "vin": "1GKS2GKDXRR315705",
       "stock": "NUMBER",
+      "trim": "SLTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/1761113c53bd.html",
       "source_url": "https://www.coastmountaingm.com/used/2024-GMC-Yukon_XL-id14379524.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2024-GMC-Yukon_XL-id14379524.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -653,8 +754,10 @@
       "odometer_km": 86856,
       "year": 2024,
       "make": "GMC",
-      "model": "Yukon XL SLTin Smithers",
-      "condition": "used"
+      "model": "Yukon XL",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Yukon XL ",
@@ -669,7 +772,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision ",
@@ -685,7 +790,9 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envision",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista ",
@@ -701,13 +808,16 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envista",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touringin Smithers",
       "vin": "LRBFZPR44TD061121",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport Touringin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/d6f3fd987576.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Buick-Envision-id13810993.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Buick-Envision-id13810993.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +826,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touringin Smithers",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touring Awdin Smithers",
       "vin": "LRBFZPR41TD048388",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Sport Touring Awdin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/ca75ff668a11.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Buick-Envision-id13811003.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Buick-Envision-id13811003.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -732,14 +845,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touring Awdin Smithers",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Sport Touringin Smithers",
       "vin": "LRBFZPR42TD047945",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport Touringin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/171aa7fcf54a.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Buick-Envision-id13811004.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Buick-Envision-id13811004.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -748,8 +864,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Buick",
-      "model": "Envision Sport Touringin Smithers",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision ",
@@ -765,7 +883,9 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envision",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazer ",
@@ -781,7 +901,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -797,7 +919,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500HD ",
@@ -813,7 +937,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer ",
@@ -829,13 +955,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazer RSin Smithers",
       "vin": "3GNKBKRSXTS147689",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "RSin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/6d5141a0ee71.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Blazer-id13519555.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Blazer-id13519555.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -844,14 +973,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Blazer RSin Smithers",
-      "condition": "new"
+      "model": "Blazer",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazer True Northin Smithers",
       "vin": "3GNKBJR4XTS195821",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "True Northin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/c4d546dd1d09.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Blazer-id14371115.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Blazer-id14371115.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -860,8 +992,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Blazer True Northin Smithers",
-      "condition": "new"
+      "model": "Blazer",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazer ",
@@ -877,13 +1011,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado 4wd Trail Bossin Smithers",
       "vin": "1GCPTEEK9T1292212",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Trail Bossin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/e9f5852c35b6.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Colorado-id14160669.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Colorado-id14160669.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -892,8 +1029,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado 4wd Trail Bossin Smithers",
-      "condition": "new"
+      "model": "Colorado",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -909,13 +1048,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox Awd Ltin Smithers",
       "vin": "3GNAXPEG7TL522296",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Ltin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/e55858c7fdc6.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Equinox-id14413566.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Equinox-id14413566.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -924,14 +1066,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox Awd Ltin Smithers",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox Awd Ltin Smithers",
       "vin": "3GNAXPEG1TL499775",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Ltin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/77fc6db667ec.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Equinox-id14413567.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Equinox-id14413567.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -940,8 +1085,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox Awd Ltin Smithers",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox ",
@@ -957,13 +1104,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EVin Smithers",
       "vin": "3GN7DLRR7TS194410",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "EVin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/d61f2bf52a43.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Equinox_EV-id14210989.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Equinox_EV-id14210989.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -972,8 +1122,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EVin Smithers",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV ",
@@ -989,13 +1141,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado Customin Smithers",
       "vin": "1GCPKBEK7TZ501787",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Customin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/cc62339a51bc.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Silverado-id14373698.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Silverado-id14373698.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1004,14 +1159,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado Customin Smithers",
-      "condition": "new"
+      "model": "Silverado",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado LTin Smithers",
       "vin": "2GCUKDED7T1237656",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "LTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/feb8441f5f38.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Silverado-id14399095.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Silverado-id14399095.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1020,14 +1178,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado LTin Smithers",
-      "condition": "new"
+      "model": "Silverado",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado Customin Smithers",
       "vin": "1GCPKBEK2TZ511076",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Customin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/2037a21cee2b.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Silverado-id14407637.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Silverado-id14407637.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1036,8 +1197,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado Customin Smithers",
-      "condition": "new"
+      "model": "Silverado",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado ",
@@ -1053,13 +1216,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 RSTin Smithers",
       "vin": "3GCUKEEDXTG518363",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "RSTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/c4f06642fb4f.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Silverado_1500-id14475103.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Silverado_1500-id14475103.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1068,8 +1234,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 RSTin Smithers",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -1085,7 +1253,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500HD ",
@@ -1101,7 +1271,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Suburban ",
@@ -1117,7 +1289,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Suburban",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe ",
@@ -1133,13 +1307,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Tahoe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer RSin Smithers",
       "vin": "KL79MUSL6TB312341",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "RSin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/f0ac46807bac.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-TrailBlazer-id14462046.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-TrailBlazer-id14462046.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1148,8 +1325,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "TrailBlazer RSin Smithers",
-      "condition": "new"
+      "model": "Trailblazer",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer ",
@@ -1165,13 +1344,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax Activin Smithers",
       "vin": "KL77LKE29TC279850",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Activin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/7ad865b1f74f.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Trax-id14454254.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Trax-id14454254.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1180,14 +1362,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax Activin Smithers",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax Activin Smithers",
       "vin": "KL77LKE21TC279275",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Activin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/ab191e0858c2.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Trax-id14454256.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-Chevrolet-Trax-id14454256.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1196,8 +1381,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax Activin Smithers",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ",
@@ -1213,7 +1400,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ",
@@ -1229,7 +1418,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra ",
@@ -1245,7 +1436,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra ",
@@ -1261,12 +1454,15 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 SLTin Smithers",
       "vin": "3GTUUDED1TG170229",
       "stock": "NUMBER",
+      "trim": "SLTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/b5858178847f.html",
       "source_url": "https://www.coastmountaingm.com/used/2026-GMC-Sierra_1500-id14419739.html",
       "dealer_url": "https://www.coastmountaingm.com/used/2026-GMC-Sierra_1500-id14419739.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1276,8 +1472,10 @@
       "odometer_km": 7044,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 SLTin Smithers",
-      "condition": "used"
+      "model": "Sierra 1500",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 ",
@@ -1293,13 +1491,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia Elevationin Smithers",
       "vin": "1GKENNKS4TJ345375",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/ca1b711ed993.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Acadia-id13810995.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Acadia-id13810995.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1308,8 +1509,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Acadia Elevationin Smithers",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia ",
@@ -1325,13 +1528,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon Elevationin Smithers",
       "vin": "1GTP2BEK2T1259716",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/6d80aad69c7f.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Canyon-id13990915.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Canyon-id13990915.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1340,14 +1546,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon Elevationin Smithers",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4in Smithers",
       "vin": "1GTP2DEK7T1275048",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "AT4in Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/72e419476916.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Canyon-id14089516.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Canyon-id14089516.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1356,14 +1565,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4in Smithers",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon Denaliin Smithers",
       "vin": "1GTP2FEK8T1334006",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Denaliin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/d91339d6a890.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Canyon-id14475101.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Canyon-id14475101.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1372,8 +1584,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon Denaliin Smithers",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ",
@@ -1389,13 +1603,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra Elevationin Smithers",
       "vin": "1GTUUCED7TZ473008",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/794028f25a05.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra-id14243430.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra-id14243430.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1404,8 +1621,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra Elevationin Smithers",
-      "condition": "new"
+      "model": "Sierra",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra ",
@@ -1421,13 +1640,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevationin Smithers",
       "vin": "3GTPUCEK6TG442117",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/c7a917e293f1.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14191890.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14191890.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1436,14 +1658,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevationin Smithers",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevationin Smithers",
       "vin": "1GTUUCED3TZ494566",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/c674f126f35e.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14333971.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14333971.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1452,14 +1677,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevationin Smithers",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevationin Smithers",
       "vin": "1GTUUCED6TZ493315",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/0a1a6ef16378.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14333972.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14333972.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1468,14 +1696,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevationin Smithers",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevationin Smithers",
       "vin": "1GTUUCED3TZ493689",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/f7b1b33cc5c0.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14340543.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14340543.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1484,14 +1715,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevationin Smithers",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevationin Smithers",
       "vin": "1GTUUCED7TZ497289",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/38cc096173b1.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14346263.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14346263.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1500,14 +1734,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevationin Smithers",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevationin Smithers",
       "vin": "1GTPUCEKXTZ498979",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/8d2b4be9c817.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14359509.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14359509.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1516,14 +1753,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevationin Smithers",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Elevationin Smithers",
       "vin": "3GTUUCED3TG513388",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/a5fffac4b272.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14443355.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2026-GMC-Sierra_1500-id14443355.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1532,8 +1772,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Elevationin Smithers",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 ",
@@ -1549,7 +1791,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 2500 ",
@@ -1565,7 +1809,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500 ",
@@ -1581,7 +1827,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon ",
@@ -1597,7 +1845,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Buick Enclave ",
@@ -1613,13 +1863,16 @@
       "year": 2027,
       "make": "Buick",
       "model": "Enclave",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Buick Enclave Sport Touringin Smithers",
       "vin": "5GAEVBKS9VJ119136",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sport Touringin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/b627b4a0fb12.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2027-Buick-Enclave-id14237346.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2027-Buick-Enclave-id14237346.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1628,8 +1881,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Buick",
-      "model": "Enclave Sport Touringin Smithers",
-      "condition": "new"
+      "model": "Enclave",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Buick Enclave ",
@@ -1645,7 +1900,9 @@
       "year": 2027,
       "make": "Buick",
       "model": "Enclave",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Boltin Smithers",
@@ -1659,7 +1916,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Boltin Smithers",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ",
@@ -1675,7 +1934,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV ",
@@ -1691,11 +1952,14 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Silverado 1500in Smithers",
       "stock": "NUMBER",
+      "trim": "1500in Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/53560bc8b218.html",
       "source_url": "https://www.coastmountaingm.com/new/2027-Chevrolet-Silverado_1500.html",
       "dealer_url": "https://www.coastmountaingm.com/new/2027-Chevrolet-Silverado_1500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1704,8 +1968,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Silverado 1500in Smithers",
-      "condition": "used"
+      "model": "Silverado",
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse ",
@@ -1721,13 +1987,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox Fwd Ltin Smithers",
       "vin": "3GNAXPEG0VL132949",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Ltin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/e9e7595c401c.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2027-Chevrolet-Equinox-id14237320.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2027-Chevrolet-Equinox-id14237320.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1736,8 +2005,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox Fwd Ltin Smithers",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ",
@@ -1753,13 +2024,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse LTin Smithers",
       "vin": "1GNEVGKSXVJ123134",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "LTin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/ba4c91580bdd.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2027-Chevrolet-Traverse-id14248507.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2027-Chevrolet-Traverse-id14248507.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1768,14 +2042,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Traverse LTin Smithers",
-      "condition": "new"
+      "model": "Traverse",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse Z71in Smithers",
       "vin": "1GNEVJKS0VJ122278",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Z71in Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/86b7979e9f45.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2027-Chevrolet-Traverse-id14248508.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2027-Chevrolet-Traverse-id14248508.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1784,8 +2061,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Traverse Z71in Smithers",
-      "condition": "new"
+      "model": "Traverse",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Traverse ",
@@ -1801,7 +2080,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain ",
@@ -1817,13 +2098,16 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain Awd Elevationin Smithers",
       "vin": "3GKALUEG7VL153613",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Elevationin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/7fe228eaecd1.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2027-GMC-Terrain-id14184453.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2027-GMC-Terrain-id14184453.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1832,14 +2116,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "GMC",
-      "model": "Terrain Awd Elevationin Smithers",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain At4 Awdin Smithers",
       "vin": "3GKALYEG8VL173537",
       "stock": "NUMBER",
       "color": "RIVERSTONE METALLIC",
+      "trim": "At4 Awdin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/7d38832c6adb.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2027-GMC-Terrain-id14365275.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2027-GMC-Terrain-id14365275.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1848,14 +2135,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "GMC",
-      "model": "Terrain At4 Awdin Smithers",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain At4 Awdin Smithers",
       "vin": "3GKALYEG7VL171908",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "At4 Awdin Smithers",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/0726153a58b5.html",
       "source_url": "https://www.coastmountaingm.com/new/inventory/2027-GMC-Terrain-id14365277.html",
       "dealer_url": "https://www.coastmountaingm.com/new/inventory/2027-GMC-Terrain-id14365277.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1864,8 +2154,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "GMC",
-      "model": "Terrain At4 Awdin Smithers",
-      "condition": "new"
+      "model": "Terrain",
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrainin Smithers",
@@ -1881,7 +2173,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrainin Smithers",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Terrain ",
@@ -1897,7 +2191,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "Smithers",
+      "province": "BC"
     }
   ]
 }
