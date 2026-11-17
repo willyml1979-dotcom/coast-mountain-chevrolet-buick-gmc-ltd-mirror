@@ -1,6 +1,6 @@
 # Coast Mountain Chevrolet Buick GMC Ltd.
 
- dealership in Smithers. AI-readable inventory mirror, about 116 vehicles.
+ dealership in Smithers. AI-readable inventory mirror, about 119 vehicles.
 
 - Official website: https://www.coastmountaingm.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/

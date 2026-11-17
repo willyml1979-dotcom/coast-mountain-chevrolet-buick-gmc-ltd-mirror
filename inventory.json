@@ -1,7 +1,7 @@
 {
   "dealership": "Coast Mountain Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-17T07:51:21",
-  "vehicle_count": 116,
+  "generated_at": "2026-11-17T08:05:41",
+  "vehicle_count": 119,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -114,6 +114,110 @@
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/481bd94d0f47.html",
       "condition": "used",
       "price": 89500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Encore GX 2026 for salein Smithers",
+      "vin": "KL4AMESL4TB012569",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/062ab9201b1d.html",
+      "condition": "new",
+      "price": 42979.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Envision 2026 for salein Smithers",
+      "vin": "LRBFZPR44TD061121",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/ef2498bed285.html",
+      "condition": "new",
+      "price": 53830.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Blazer 2026 for salein Smithers",
+      "vin": "3GNKBKRSXTS147689",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/90c3f2e0e9e6.html",
+      "condition": "new",
+      "price": 60500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Colorado 2026 for salein Smithers",
+      "vin": "1GCPTEEK9T1292212",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/7acebe5be4cb.html",
+      "condition": "new",
+      "price": 58260.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Equinox 2026 for salein Smithers",
+      "vin": "3GNAXPEG7TL522296",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/dff1c32ebcee.html",
+      "condition": "new",
+      "price": 39020.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Equinox EV 2026 for salein Smithers",
+      "vin": "3GN7DLRR7TS194410",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/bc7b3ecee88c.html",
+      "condition": "new",
+      "price": 54330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado EV 2026 for salein Smithers",
+      "vin": "1GC10WEL4TU420089",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/7fed4406d641.html",
+      "condition": "new",
+      "price": 90335.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Trax 2026 for salein Smithers",
+      "vin": "KL77LGE23TC292039",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/d88aecd02aa9.html",
+      "condition": "new",
+      "price": 31575.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 2500 2026 for salein Smithers",
+      "vin": "1GT4UZEY1TF401292",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/ce41bca05b40.html",
+      "condition": "new",
+      "price": 130825.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Bolt 2027 for salein Smithers",
+      "vin": "1G1FY6EV7VF126380",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/60a150cace33.html",
+      "condition": "new",
+      "price": 45485.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Suburban 2027 for salein Smithers",
+      "vin": "1GNS6BKD4VR175820",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/744b3219769e.html",
+      "condition": "new",
+      "price": 93115.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2027 for salein Smithers",
+      "vin": "3GTUULEN2VG102396",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/753068cd6867.html",
+      "condition": "new",
+      "price": 110780.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Yukon XL 2027 for salein Smithers",
+      "vin": "1GKS2GKD8VR175843",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/b378552b62ff.html",
+      "condition": "new",
+      "price": 105145.0,
       "price_currency": "CAD"
     },
     {
@@ -543,31 +647,20 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Buick Encore GX Sport Touringin Smithers",
+      "vin": "KL4AMESL4TB012569",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/384563dcbad7.html",
+      "year": 2026,
+      "make": "Buick",
+      "model": "Encore GX",
+      "condition": "new",
+      "price": 42979.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Buick Envision Sport Touringin Smithers",
       "vin": "LRBFZPR44TD061121",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/d6f3fd987576.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 54330.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Buick Envision Sport Touringin Smithers",
-      "vin": "LRBFZPR42TD047945",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/171aa7fcf54a.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 54825.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envision ",
-      "vin": "LRBFZPR44TD061121",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/ef2498bed285.html",
       "year": 2026,
       "make": "Buick",
       "model": "Envision",
@@ -598,42 +691,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Chevrolet Blazer True Northin Smithers",
-      "vin": "3GNKBJR4XTS195821",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/c4d546dd1d09.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Blazer",
-      "condition": "new",
-      "price": 53815.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Blazer ",
-      "vin": "3GNKBJR4XTS195821",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/90c3f2e0e9e6.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Blazer",
-      "condition": "new",
-      "price": 53815.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Chevrolet Colorado 4wd Trail Bossin Smithers",
       "vin": "1GCPTEEK9T1292212",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/e9f5852c35b6.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "new",
-      "price": 58260.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Colorado ",
-      "vin": "1GCPTEEK9T1292212",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/7acebe5be4cb.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
@@ -664,34 +724,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Equinox ",
-      "vin": "3GNAXPEG7TL522296",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/dff1c32ebcee.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "new",
-      "price": 42020.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Chevrolet Equinox EVin Smithers",
       "vin": "3GN7DLRR7TS194410",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/d61f2bf52a43.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new",
-      "price": 54330.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Equinox EV ",
-      "vin": "3GN7DLRR7TS194410",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/bc7b3ecee88c.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
       "condition": "new",
       "price": 54330.0,
       "price_currency": "CAD"
@@ -704,7 +742,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 61570.0,
+      "price": 69570.0,
       "price_currency": "CAD"
     },
     {
@@ -716,17 +754,6 @@
       "model": "Silverado",
       "condition": "new",
       "price": 61570.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Chevrolet Silverado 1500 RSTin Smithers",
-      "vin": "3GCUKEEDXTG518363",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/c4f06642fb4f.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 73305.0,
       "price_currency": "CAD"
     },
     {
@@ -748,7 +775,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 61025.0,
+      "price": 69025.0,
       "price_currency": "CAD"
     },
     {
@@ -774,6 +801,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Chevrolet Silverado 3500HD Work Truckin Smithers",
+      "vin": "1GC4KSE70TF445840",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/649a4b0f4d2c.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
+      "condition": "new",
+      "price": 73355.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Chevrolet Silverado 3500HD ",
       "vin": "1GC4KUEY8TF170397",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/6443c8aa4bbd.html",
@@ -782,17 +820,6 @@
       "model": "Silverado 3500HD",
       "condition": "new",
       "price": 109895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado EV ",
-      "vin": "1GC10WEL4TU420089",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/7fed4406d641.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado EV",
-      "condition": "new",
-      "price": 90335.0,
       "price_currency": "CAD"
     },
     {
@@ -829,6 +856,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Chevrolet TrailBlazer RSin Smithers",
+      "vin": "KL79MUSL2TB319772",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/af8758d62d8a.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "condition": "new",
+      "price": 40270.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Chevrolet TrailBlazer ",
       "vin": "KL79MUSL6TB312341",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/490a1dd9e20f.html",
@@ -837,17 +875,6 @@
       "model": "TrailBlazer",
       "condition": "new",
       "price": 43955.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Chevrolet Trax Activin Smithers",
-      "vin": "KL77LKE29TC279850",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/7ad865b1f74f.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "new",
-      "price": 35270.0,
       "price_currency": "CAD"
     },
     {
@@ -862,14 +889,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Trax ",
-      "vin": "KL77LKE29TC279850",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/d88aecd02aa9.html",
+      "name": "New 2026 Chevrolet Trax 1RSin Smithers",
+      "vin": "KL77LGE28TC291520",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/2bdc2b0208ac.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "new",
-      "price": 35270.0,
+      "price": 31575.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Trax 1RSin Smithers",
+      "vin": "KL77LGE23TC292039",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/662b28f28d90.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "new",
+      "price": 31575.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Chevrolet Trax LTin Smithers",
+      "vin": "KL77LHE26TC283809",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/7fb06994918e.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "new",
+      "price": 32575.0,
       "price_currency": "CAD"
     },
     {
@@ -892,28 +941,6 @@
       "model": "Sierra 1500",
       "condition": "used",
       "price": 69589.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 GMC Acadia Elevationin Smithers",
-      "vin": "1GKENNKS4TJ345375",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/ca1b711ed993.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Acadia",
-      "condition": "new",
-      "price": 63685.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Acadia ",
-      "vin": "1GKENNKS4TJ345375",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/dab253d9ff01.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Acadia",
-      "condition": "new",
-      "price": 63685.0,
       "price_currency": "CAD"
     },
     {
@@ -983,6 +1010,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 GMC Sierra 1500 Elevation Crewin Smithers",
+      "vin": "3GTUUCEDXTG512416",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/5b76c2bd1492.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 74005.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 GMC Sierra ",
       "vin": "1GTUUCED7TZ473008",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/43343a7531a3.html",
@@ -1023,18 +1061,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "new",
-      "price": 72300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 GMC Sierra 1500 Elevationin Smithers",
-      "vin": "1GTUUCED3TZ493689",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/f7b1b33cc5c0.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 70700.0,
+      "price": 68350.0,
       "price_currency": "CAD"
     },
     {
@@ -1078,7 +1105,18 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "new",
-      "price": 75735.0,
+      "price": 71735.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 GMC Sierra 1500 PROin Smithers",
+      "vin": "1GTUUAED2TZ496247",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/54d31bd74b42.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 74100.0,
       "price_currency": "CAD"
     },
     {
@@ -1090,17 +1128,6 @@
       "model": "Sierra 1500",
       "condition": "new",
       "price": 66180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 2500 ",
-      "vin": "1GT4UZEY3TF380090",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/ce41bca05b40.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 2500",
-      "condition": "new",
-      "price": 123825.0,
       "price_currency": "CAD"
     },
     {
@@ -1126,17 +1153,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Buick Enclave Sport Touringin Smithers",
-      "vin": "5GAEVBKS9VJ119136",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/b627b4a0fb12.html",
-      "year": 2027,
-      "make": "Buick",
-      "model": "Enclave",
-      "condition": "new",
-      "price": 73305.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Buick Enclave ",
       "vin": "5GAEVBKS9VJ119136",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/eede07faff67.html",
@@ -1148,14 +1164,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Chevrolet Equinox Awd Activin Smithers",
-      "vin": "3GNAXSEG8VL228038",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/1def700855dc.html",
+      "name": "New 2027 Chevrolet Bolt LTin Smithers",
+      "vin": "1G1FY6EV7VF126380",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/a7e647a2b16a.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 45485.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chevrolet Equinox Awd Ltin Smithers",
+      "vin": "3GNAXPEG8VL252322",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/0b97d9d1a399.html",
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "new",
-      "price": 47120.0,
+      "price": 42275.0,
       "price_currency": "CAD"
     },
     {
@@ -1167,39 +1194,6 @@
       "model": "Equinox",
       "condition": "new",
       "price": 47120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Chevrolet Traverse LTin Smithers",
-      "vin": "1GNEVGKSXVJ123134",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/ba4c91580bdd.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "new",
-      "price": 61805.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Chevrolet Traverse Z71in Smithers",
-      "vin": "1GNEVJKS0VJ122278",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/86b7979e9f45.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "new",
-      "price": 66260.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Traverse ",
-      "vin": "1GNEVGKSXVJ123134",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/new/0cd00c86eed6.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "new",
-      "price": 61805.0,
       "price_currency": "CAD"
     },
     {
