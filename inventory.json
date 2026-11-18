@@ -1,7 +1,7 @@
 {
   "dealership": "Coast Mountain Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-18T00:01:39",
-  "vehicle_count": 119,
+  "generated_at": "2026-11-18T09:09:27",
+  "vehicle_count": 118,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -10,6 +10,14 @@
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/dda7ef315655.html",
       "condition": "used",
       "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet SSR 2006 for salein Smithers",
+      "vin": "1GCES14HX6B121377",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/fef7967cbc04.html",
+      "condition": "used",
+      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
@@ -185,6 +193,14 @@
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/c630cb81f102.html",
       "condition": "used",
       "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2026 for salein Smithers",
+      "vin": "3GTUUDED1TG170229",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/9ab0b302c1eb.html",
+      "condition": "used",
+      "price": 67888.0,
       "price_currency": "CAD"
     },
     {
@@ -384,17 +400,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2006 Chevrolet SSR ",
-      "vin": "1GCES14HX6B121377",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/fef7967cbc04.html",
-      "year": 2006,
-      "make": "Chevrolet",
-      "model": "SSR",
-      "condition": "used",
-      "price": 38995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2014 GMC Sierra K1500 Slein Smithers",
       "vin": "3GTU2UEC1EG274459",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/4a935d8f38ed.html",
@@ -413,7 +418,7 @@
       "make": "GMC",
       "model": "Yukon",
       "condition": "used",
-      "price": 33897.0,
+      "price": 36995.0,
       "price_currency": "CAD"
     },
     {
@@ -490,17 +495,6 @@
       "model": "Suburban",
       "condition": "used",
       "price": 58888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Suburban Premierin Smithers",
-      "vin": "1GNSKFKD7PR157141",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/dc22e6762f4c.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Suburban",
-      "condition": "used",
-      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -896,17 +890,6 @@
       "model": "Sierra 1500",
       "condition": "used",
       "price": 67888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 1500 ",
-      "vin": "3GTUUDED1TG170229",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/9ab0b302c1eb.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 69589.0,
       "price_currency": "CAD"
     },
     {
