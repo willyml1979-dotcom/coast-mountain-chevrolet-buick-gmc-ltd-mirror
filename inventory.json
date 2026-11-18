@@ -1,10 +1,17 @@
 {
   "dealership": "Coast Mountain Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-11-17T08:05:41",
+  "generated_at": "2026-11-17T23:54:56",
   "vehicle_count": 119,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "GMC Sierra 1972 for salein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/dda7ef315655.html",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "GMC Sierra 2014 for salein Smithers",
       "vin": "3GTU2UEC1EG274459",
@@ -14,11 +21,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "GMC Yukon 2016 for salein Smithers",
+      "vin": "1GKS2CKJ8GR450578",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/c3fd58987815.html",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chevrolet Silverado 1500 2017 for salein Smithers",
       "vin": "1GCVKSEC4HZ146374",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/37cd9f350db4.html",
       "condition": "used",
       "price": 25995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2019 for salein Smithers",
+      "vin": "1C4HJXFG0KW604452",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/d8a77325774a.html",
+      "condition": "used",
+      "price": 30888.0,
       "price_currency": "CAD"
     },
     {
@@ -46,11 +69,42 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chevrolet Suburban 2023 for salein Smithers",
+      "vin": "1GNSKFKD7PR157141",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/fbd518948fdf.html",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2023 for salein Smithers",
+      "vin": "1FMCU9JA4PUA33448",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/2e3fd4e77be3.html",
+      "condition": "used",
+      "price": 26888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "GMC Sierra 1500 2023 for salein Smithers",
       "vin": "1GTUUEE88PZ191044",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/0d576ed063d6.html",
       "condition": "used",
       "price": 57888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 3500 2023 for salein Smithers",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/e69e95ff9338.html",
+      "condition": "used",
+      "price": 72888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Yukon XL 2023 for salein Smithers",
+      "vin": "1GKS2FKD8PR364926",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/f6cbdf7cf8dd.html",
+      "condition": "used",
+      "price": 34888.0,
       "price_currency": "CAD"
     },
     {
@@ -86,6 +140,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "GMC Sierra 1500 2024 for salein Smithers",
+      "vin": "1GTPUAEK8RZ307265",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/e528518f0742.html",
+      "condition": "used",
+      "price": 43888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "GMC Sierra 3500 2024 for salein Smithers",
       "vin": "1GT49UEY8RF238959",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/c39fa0f18958.html",
@@ -99,6 +161,22 @@
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/5340ca95e875.html",
       "condition": "used",
       "price": 77888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Terrain 2024 for salein Smithers",
+      "vin": "3GKALTEG8RL181369",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/19f95e0495a8.html",
+      "condition": "used",
+      "price": 23888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Yukon XL 2024 for salein Smithers",
+      "vin": "1GKS2GKDXRR315705",
+      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/6411ebc5b505.html",
+      "condition": "used",
+      "price": 68888.0,
       "price_currency": "CAD"
     },
     {
@@ -231,17 +309,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "1972 GMC Sierra ",
-      "vin": "TKE242Z502725",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/dda7ef315655.html",
-      "year": 1972,
-      "make": "GMC",
-      "model": "Sierra",
-      "condition": "used",
-      "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2006 Chevrolet SSR LSin Smithers",
       "vin": "1GCES14HX6B121377",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/2762e7c54446.html",
@@ -286,17 +353,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 GMC Yukon ",
-      "vin": "1GKS2CKJ8GR450578",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/c3fd58987815.html",
-      "year": 2016,
-      "make": "GMC",
-      "model": "Yukon",
-      "condition": "used",
-      "price": 33897.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Chevrolet Silverado 1500 LTZin Smithers",
       "vin": "1GCVKSEC4HZ146374",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/7ba9cdb05ebe.html",
@@ -315,18 +371,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Wrangler ",
-      "vin": "1C4HJXFG0KW604452",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/d8a77325774a.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 34995.0,
+      "price": 30888.0,
       "price_currency": "CAD"
     },
     {
@@ -380,7 +425,7 @@
       "make": "Chevrolet",
       "model": "Suburban",
       "condition": "used",
-      "price": 59500.0,
+      "price": 58888.0,
       "price_currency": "CAD"
     },
     {
@@ -395,17 +440,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Chevrolet Suburban ",
-      "vin": "1GNSKFKT9PR253215",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/fbd518948fdf.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Suburban",
-      "condition": "used",
-      "price": 59500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Escape Platinumin Smithers",
       "vin": "1FMCU9JA4PUA33448",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/bf50fa0af265.html",
@@ -413,18 +447,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Escape ",
-      "vin": "1FMCU9JA4PUA33448",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/2e3fd4e77be3.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 28995.0,
+      "price": 26888.0,
       "price_currency": "CAD"
     },
     {
@@ -446,7 +469,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 59995.0,
+      "price": 57888.0,
       "price_currency": "CAD"
     },
     {
@@ -460,17 +483,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 GMC Sierra 3500 ",
-      "vin": "IGT49VEY4PF226763",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/e69e95ff9338.html",
-      "year": 2023,
-      "make": "GMC",
-      "model": "Sierra 3500",
-      "condition": "used",
-      "price": 75485.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 GMC Yukon XL SLEin Smithers",
       "vin": "1GKS2FKD8PR364926",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/d2360d6e5952.html",
@@ -479,17 +491,6 @@
       "model": "Yukon XL",
       "condition": "used",
       "price": 34888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 GMC Yukon XL ",
-      "vin": "1GKS2FKD8PR364926",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/f6cbdf7cf8dd.html",
-      "year": 2023,
-      "make": "GMC",
-      "model": "Yukon XL",
-      "condition": "used",
-      "price": 35331.0,
       "price_currency": "CAD"
     },
     {
@@ -570,17 +571,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC Sierra 1500 ",
-      "vin": "3GTUUFEL5RG141571",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/e528518f0742.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 55995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 GMC Sierra 3500 SLTin Smithers",
       "vin": "1GT49UEY8RF238959",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/17fe7d6a2927.html",
@@ -610,35 +600,13 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "used",
-      "price": 24985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Terrain ",
-      "vin": "3GKALTEG8RL181369",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/19f95e0495a8.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 24985.0,
+      "price": 23888.0,
       "price_currency": "CAD"
     },
     {
       "name": "2024 GMC Yukon XL SLTin Smithers",
       "vin": "1GKS2GKDXRR315705",
       "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/1761113c53bd.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Yukon XL",
-      "condition": "used",
-      "price": 68888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Yukon XL ",
-      "vin": "1GKS2GKDXRR315705",
-      "url": "https://willyml1979-dotcom.github.io/coast-mountain-chevrolet-buick-gmc-ltd-mirror/used/6411ebc5b505.html",
       "year": 2024,
       "make": "GMC",
       "model": "Yukon XL",
